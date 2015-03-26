@@ -5,6 +5,12 @@ Possible topics:
   - supported formatting
 - Loading raster images
 - Loading vector files
-- Producing the PDF
+- Producing PDFs
+- Importing layouts
 - Exporting content
-- Color
+- Colors and Color Management
+- Printing
+- Fonts
+  - Font management
+  - Fonts types support
+  - Fonts features support
