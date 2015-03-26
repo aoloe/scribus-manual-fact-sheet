@@ -1,1 +1,1 @@
-# The Scribus Factsheet
+# The Scribus Fact Sheet
